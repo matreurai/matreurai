@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matreurai
-- 👀 I’m interested in cybersecurity, ethical hacking, pentesting and bug bounty.
+- 👀 I’m interested in cybersecurity, ethical hacking, pentesting and bug bounty hunting.
 - 🌱 I’m currently learning vulnerability research, forensics, defensive and offensive cybersecurity side of things.
 - 💞️ I’m currently working as an AppSec Dev in a 20 members international team of security professionals.
 
