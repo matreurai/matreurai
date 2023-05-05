@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matreurai
-- 👀 I’m interested in cybersecurity, blockchain techs, gaming culture and business intelligence.
-- 🌱 I’m currently learning vulnerability research, forensics, and defensive and offensive cybersecurity technologies.
-- 💞️ I’m currently collaborating on a cloud-based, all-in-one, hyper-automated, ingress platform.  
+- 👀 I’m interested in cybersecurity, ethical hacking, pentesting and bug bounty.
+- 🌱 I’m currently learning vulnerability research, forensics, defensive and offensive cybersecurity side of things.
+- 💞️ I’m currently working as an AppSec Dev in a 20 members international team of security professionals.
 
 
 <!---
